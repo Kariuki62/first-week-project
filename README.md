@@ -16,4 +16,4 @@ The project puts in HTML and CSS soon other languages will come into place
 You can email me at riswanjohi62@gmail.com
 ### License
 *It can only be used the GPL*
-Copyright (c) {2019} **I'm Currently working on it alone but other contributors will be added soon**
+Copyright (c) 2019 **I'm Currently working on it alone but other contributors will be added soon**
