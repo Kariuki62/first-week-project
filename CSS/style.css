@@ -1,19 +1,47 @@
 h1{
   font-size: 72px;
-  color: blue;
+  background-color: red;
+  text-align: center;
+
 }
 h2{
   color: blue;
 }
 .Aboutme{
-  color: cyan;
+  color: black;
+  float: left;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  margin: 20px;
+  background-color: red;
+  font-family: sans-serif;
+}
+.Veryimportant{
+  color: black;
+  float: left;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  margin: 20px;
+  background-color: green;
+  font-family: sans-serif;
+}
+.code-base{
+  font-style: italic;
 }
 strong{
  color: blue
 }
 img{
   width: 300px;
+  float: inherit;
 }
 body{
   background-color: grey;
+}
+em{
+  font-style: italic;
 }
