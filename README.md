@@ -1,6 +1,6 @@
 {First Project}
 #### {A detailed explanation on projects I have worked on }, {21/4/2019}
-#### By **{List of contributors}**
+#### By I'm Currently Working on the project Solo
 ## Description
 {This website gives a detailed explanation on the projects I have worked on. It can also give details on my life Bio and getting to know me more }
 ## Setup/Installation Requirements
